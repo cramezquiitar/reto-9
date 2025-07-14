@@ -27,7 +27,7 @@ if cantidad_valores > 0:
 else:
     print("No hay valores para calcular el promedio.")
 ```
-3. Desarrollar un algoritmo que calcule el [producto punto](https://www.cuemath.com/algebra/dot-product/) de dos arreglos de números enteros (reales) de igual tamaño# Paso 1: Ingresar la cantidad de elementos en los arreglos
+2. Desarrollar un algoritmo que calcule el [producto punto](https://www.cuemath.com/algebra/dot-product/) de dos arreglos de números enteros (reales) de igual tamaño# Paso 1: Ingresar la cantidad de elementos en los arreglos
 ```python
 # Paso 1: Ingresar la cantidad de elementos en los arreglos
 cantidad_elementos = int(input("Ingrese la cantidad de elementos en los arreglos: "))
@@ -56,7 +56,7 @@ for i in range(cantidad_elementos):
 # Paso 6: Mostrar el resultado
 print("El producto punto de los dos arreglos es: " + str(producto_punto))
 ```
-4. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
+3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 ```python
 # Ingresar el tamaño del arreglo
 cantidad = int(input("Ingrese la cantidad de elementos del arreglo: "))
@@ -87,5 +87,5 @@ for n in range(contador_ceros):
 # Mostrar el resultado final
 print("El arreglo con los ceros al final es: " + str(no_ceros))
 ```
-5. Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).
+4. Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).
 Los algoritmos de sorting (algoritmos de ordenamiento) son procedimientos o pasos lógicos diseñados para reorganizar los elementos de una estructura de datos (como una lista o un arreglo), con el fin de que queden en un orden específico, normalmente ascendente (de menor a mayor) o descendente (de mayor a menor).
