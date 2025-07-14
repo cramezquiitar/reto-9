@@ -88,4 +88,6 @@ for n in range(contador_ceros):
 print("El arreglo con los ceros al final es: " + str(no_ceros))
 ```
 4. Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).
+
+   
 Los algoritmos de sorting (algoritmos de ordenamiento) son procedimientos o pasos lógicos diseñados para reorganizar los elementos de una estructura de datos (como una lista o un arreglo), con el fin de que queden en un orden específico, normalmente ascendente (de menor a mayor) o descendente (de mayor a menor).
